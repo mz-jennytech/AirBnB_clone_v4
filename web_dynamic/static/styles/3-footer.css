@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 footer {
     position: fixed;
     bottom: 0;
@@ -8,4 +9,20 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+=======
+@charset "UTF-8";
+/** Holberton Practice Styles
+ * ----- Footer
+ */
+
+footer {
+	background: #FFFFFF;
+	height: 60px;
+	line-height: 60px;
+	width: 100%;
+	bottom: 0px;
+	position: relative;
+	text-align: center;
+	border-top: 1px solid #CCCCCC;
+>>>>>>> cdd45c727a81aba0173ac439a78438706c5a882f
 }
