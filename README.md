@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Author
-Jennifer Udensi - [Github](https://github.com/mz-jennytech) / [Twitter](https://twitter.com/mz_jennytech) 
-Dennis Maritim -Dennis Maritim
+Jennifer Udensi - [Github](https://github.com/mz-jennytech) / [Twitter](https://twitter.com/mz_jennytech)
+
+Dennis Maritim - [Github](https://github.com/soberkd) / [Twitter](https://twitter.com/soberkd)
 ## Licensei
 Public Domain. No copy write protection. 
